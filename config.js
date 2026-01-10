@@ -14,8 +14,8 @@ window.MY_STORE_CONFIG = {
   },
 
   cloudinary: {
-    cloudName: "dongmlmoj",
-    uploadPreset: "app_upload"
+    cloudName: "doxjvpehx",
+    uploadPreset: "ghdhbc"
   },
 
   security: {
