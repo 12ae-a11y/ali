@@ -22,6 +22,6 @@ window.MY_STORE_CONFIG = {
 
     // 3. رمز دخول الأدمن
     security: {
-        adminCode: "1001"
+        adminCode: "12300"
     }
 };
